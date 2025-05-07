@@ -1,0 +1,1499 @@
+[
+  {
+    "id": "c4e9a2de-5b14-4169-9c84-5d8b9561f105",
+    "verb": "add",
+    "phr_verbs": [
+      {
+        "id": "75c4f96b-1a22-4e52-9b37-63a8d9d9560e",
+        "particle": "on",
+        "verb": "add on",
+        "translation": "прибавлять",
+        "example": "Don't forget to add on for a new pair of shoes\nА ты не забудь добавить стоимость новой пары ботинок."
+      },
+      {
+        "id": "af36b20c-f436-4ac0-9c2f-5e0a3f93ed4c",
+        "particle": "up",
+        "verb": "add up",
+        "translation": "складывать",
+        "example": "He quickly added up the figures in his head.\nОн быстро считал в уме."
+      }
+    ]
+  },
+  {
+    "id": "6d331d06-21e3-4e99-91f6-4f8c0cf9ae47",
+    "verb": "back",
+    "phr_verbs": [
+      {
+        "id": "9b6a3b34-934b-48b8-9cc4-93c791b49b01",
+        "particle": "away",
+        "verb": "back away",
+        "translation": "отступать, пятиться",
+        "example": "The government has backed away from plans to increase taxes. \nПравительство отказалось от планов по повышению налогов \nThe children backed away from him in fear.\nДети в страхе отпрянули от него."
+      },
+      {
+        "id": "5df2a755-e997-45e3-b94f-c262481b70aa",
+        "particle": "off",
+        "verb": "back off",
+        "translation": "отступить; притормозить",
+        "example": "I think you should back off for a while.\n Думаю, тебе следует на время притормозить"
+      }
+    ]
+  },
+  {
+    "id": "b8ca83a7-663a-4af9-9a35-3970048bf914",
+    "verb": "be",
+    "phr_verbs": [
+      {
+        "id": "e924d6bf-1797-4e15-981a-eba2c9755b1a",
+        "particle": "back",
+        "verb": "be back",
+        "translation": "вернуться, возвращаться",
+        "example": "What time did you get back last night? \nВо сколько ты вернулся вчера вечером?"
+      },
+      {
+        "id": "2d0257f4-316a-4eea-b58c-b9dcd05df4d9",
+        "particle": "off",
+        "verb": "be off",
+        "translation": "уходить, уезжать; быть свободным, неработающим",
+        "example": "She went off to get a drink.\nОна отошла за напитком."
+      },
+      {
+        "id": "ae1cfb3e-c3c9-4b9f-b1aa-4f84badeb70e",
+        "particle": "out",
+        "verb": "be out",
+        "translation": "отсутствовать, не быть дома, на месте",
+        "example": "Don't forget to add on for a new pair of shoes\nА ты не забудь добавить стоимость новой пары ботинок."
+      },
+      {
+        "id": "c5375df9-6a49-4d24-9fda-990da38c6519",
+        "particle": "over",
+        "verb": "be over",
+        "translation": "окончиться, завершиться",
+        "example": "Please don't leave your seats until the performance is over.\nПожалуйста , не покидайте свои места до окончания представления ."
+      },
+      {
+        "id": "41342a3a-7b2b-486a-9aa0-c0a992f60a55",
+        "particle": "up",
+        "verb": "be up",
+        "translation": "проснуться; быть бодрствующим; подниматься",
+        "example": "I'm up, I'm up, stop shouting!\nЯ встал, я встал, перестань кричать!"
+      },
+      {
+        "id": "78c9f4a7-1dbc-4c7a-82d6-cb3b458b86ac",
+        "particle": "up to",
+        "verb": "be up to",
+        "translation": "собираться, намереваться что-л. сделать; зависеть от",
+        "example": "It's up to you—what would you rather do this weekend?\nРешать вам — чем бы вы предпочли заняться в эти выходные ?"
+      }
+    ]
+  },
+  {
+    "id": "f33e556d-196b-4111-b8ef-663a19a00f26",
+    "verb": "blow",
+    "phr_verbs": [
+      {
+        "id": "f4d32693-9fc9-49eb-9a6d-c41551ccf6a2",
+        "particle": "out",
+        "verb": "blow out",
+        "translation": "разбиться вдребезги; гаснуть; взорвать; 4)погасить",
+        "example": "I almost lost control of the car when one of the tires blew out on the highway.\nЯ чуть не потерял контроль над автомобилем , когда на шоссе лопнула одна из шин .​"
+      },
+      {
+        "id": "a8c92e2f-d998-471d-86df-c4a0f401e52e",
+        "particle": "up",
+        "verb": "blow up",
+        "translation": "взорваться; выйти из себя; взрывать",
+        "example": "Our poor dog is hiding under the bed because our neighbors celebrate the Fourth of July by blowing up tons of fireworks.\nНаша бедная собака прячется под кроватью , потому что наши соседи празднуют 4 июля , взрывая тонны фейерверков ."
+      }
+    ]
+  },
+  {
+    "id": "a568ccc0-3a2e-43d7-820f-493a85bf3eab",
+    "verb": "break",
+    "phr_verbs": [
+      {
+        "id": "ef274c4e-f0bb-4c2c-bae6-4a4d07ae399b",
+        "particle": "down",
+        "verb": "break down",
+        "translation": "полностью расстроиться; сломать(ся)",
+        "example": "I'm afraid the blender is breaking down. It stopped working again today.\nБоюсь , блендер сломался . Сегодня он снова перестал работать ."
+      },
+      {
+        "id": "9818f3a6-5a66-402a-9a7f-16791218854c",
+        "particle": "into",
+        "verb": "break into",
+        "translation": "вламываться; озариться; разразиться; броситься",
+        "example": "I had to break into the house—I didn't have my key, and no one else was home!\nМне пришлось взломать дом — у меня не было ключа , и никого не было дома !"
+      },
+      {
+        "id": "ed7d0203-540b-449a-b6d9-3a1ee5a25569",
+        "particle": "off",
+        "verb": "break off",
+        "translation": "прервать(ся); отделить(ся)",
+        "example": "Those bricks in the yard must have broken off the chimney.\nКирпичи во дворе , должно быть , отломились от дымохода ."
+      },
+      {
+        "id": "aa5e1f36-3fda-4e29-90b2-70a2c063b1a0",
+        "particle": "out",
+        "verb": "break out",
+        "translation": "вырваться; вспыхивать; разразиться",
+        "example": "The criminal broke out of prison but was captured less than a mile away.\nПреступник сбежал из тюрьмы , но был пойман менее чем в миле от места преступления."
+      },
+      {
+        "id": "63e8e37f-dc70-42a1-b41f-c0f2fa4c36fc",
+        "particle": "up",
+        "verb": "break up",
+        "translation": "прекращать; расставаться; расходиться",
+        "example": "I was so sad to hear of Mara and John's breakup—I thought those two would be together forever.\nМне было так грустно услышать о разрыве Мары и Джона — я думала, что эти двое будут вместе навсегда ."
+      }
+    ]
+  },
+  {
+    "id": "07b2dab2-c3d5-4db5-b5b3-e3bda981e0e6",
+    "verb": "burst",
+    "phr_verbs": [
+      {
+        "id": "933fd9f1-929a-4fe0-b3be-7f9b0a697a8e",
+        "particle": "out",
+        "verb": "burst out",
+        "translation": "воскликнуть; разразиться (смехом и т.п.); вырваться",
+        "example": "Hey, don't just burst out like that—let your sister tell her side of the story.\nЭй , не врывайся так — дай сестре рассказать свою версию истории .​​"
+      }
+    ]
+  },
+  {
+    "id": "811a67d4-4416-4d8a-bbda-86ff68b34e5c",
+    "verb": "call",
+    "phr_verbs": [
+      {
+        "id": "9f939583-08bd-4acf-9edb-7df4e2bbd606",
+        "particle": "back",
+        "verb": "call back",
+        "translation": "перезвонить; позвать назад",
+        "example": "I didn't get an answer, so I'll trying calling back tomorrow.\nЯ не получил ответа , поэтому попробую перезвонить завтра ."
+      }
+    ]
+  },
+  {
+    "id": "498cc40c-ddce-4b07-b943-59071702fdff",
+    "verb": "calm",
+    "phr_verbs": [
+      {
+        "id": "61f33d4e-0a19-4659-829d-04467e1e2c98",
+        "particle": "down",
+        "verb": "calm down",
+        "translation": "успокаивать(ся)",
+        "example": "Calm down—we'll be home before curfew.\nУспокойтесь , мы вернемся домой до комендантского часа."
+      }
+    ]
+  },
+  {
+    "id": "efabb3e1-4fcd-41b1-9e48-27a430cf2b50",
+    "verb": "carry",
+    "phr_verbs": [
+      {
+        "id": "ac134698-0674-4d6a-9a47-3a52bb7383a5",
+        "particle": "on",
+        "verb": "carry on",
+        "translation": "продолжать заниматься чем-л.",
+        "example": "I'm sorry for all the interruptions—please, carry on with your story.\nИзвините за все прерывания . Пожалуйста , продолжайте свой рассказ ."
+      },
+      {
+        "id": "e02cf972-085a-4eba-9b0a-d2d095453706",
+        "particle": "out",
+        "verb": "carry out",
+        "translation": "выполнять, осуществлять (план, приказ, обещание ит.п.)",
+        "example": "It was the boss's plan, I just carried it out.\nЭто был план босса , я просто его выполнил ."
+      }
+    ]
+  },
+  {
+    "id": "9a258dbd-2ccf-4c6f-b411-176190b3417b",
+    "verb": "catch",
+    "phr_verbs": [
+      {
+        "id": "3e9ab20a-e522-4a07-9a1e-f61d995a185e",
+        "particle": "up",
+        "verb": "catch up",
+        "translation": "догнать, настичь, наверстать",
+        "example": "If we speed up, we might be able to catch up with the car ahead of us!\nЕсли мы ускоримся , то , возможно , сможем догнать машину впереди нас !"
+      }
+    ]
+  },
+  {
+    "id": "93261a66-0082-4ef8-a4be-f1de1f773f0d",
+    "verb": "check",
+    "phr_verbs": [
+      {
+        "id": "64902e52-da7c-43a0-8fa6-1f7eac04fdf7",
+        "particle": "in",
+        "verb": "check in",
+        "translation": "(за)регистрироваться",
+        "example": "Tara is checking in for the exam at the registration table.\nТара регистрируется на экзамен у стола регистрации ."
+      },
+      {
+        "id": "bc7f9776-9b3b-4982-8aea-4fd4d54a3ef9",
+        "particle": "out",
+        "verb": "check out",
+        "translation": "проверять, выяснять; выписаться из",
+        "example": "There's no way this kid's résumé checks out.\nРезюме этого парня ни за что не проверишь"
+      }
+    ]
+  },
+  {
+    "id": "b9549a6b-8cb9-47b0-8b42-2d7b3dff8a89",
+    "verb": "clean",
+    "phr_verbs": [
+      {
+        "id": "45f728b6-3c65-48cd-9d13-01fc4bce0be5",
+        "particle": "up",
+        "verb": "clean up",
+        "translation": "чистить(ся), убирать(ся), приводить в порядок",
+        "example": "Get me a sponge so I can clean this sticky table up.\nДай мне губку , чтобы я мог вытереть этот липкий стол ."
+      }
+    ]
+  },
+  {
+    "id": "44580a9c-6bb2-48a8-9575-e48a839e36b1",
+    "verb": "come",
+    "phr_verbs": [
+      {
+        "id": "c56f705f-a540-4e8c-b99d-7a955f3c0f1f",
+        "particle": "across",
+        "verb": "come across",
+        "translation": "натолкнуться на, случайно встретить",
+        "example": "If you come across my jacket, please let me know. I forget where I left it.\nЕсли вы найдете мою куртку, пожалуйста, дайте мне знать. Я забыл , где я ее оставил ."
+      },
+      {
+        "id": "fde14191-5c83-44c2-b42e-2eabe86e2852",
+        "particle": "along",
+        "verb": "come along",
+        "translation": "идти вместе, сопровождать; приходить,появляться",
+        "example": "Feel free to come along with your sister tonight—we'd all love to see you.\nМожете прийти сегодня вечером вместе с сестрой — мы все будем рады вас видеть ."
+      },
+      {
+        "id": "15a4facf-789a-433d-9c0d-06e6ab43b7f2",
+        "particle": "back",
+        "verb": "come back",
+        "translation": "возвращаться",
+        "example": "We're coming back from our vacation on Tuesday.\nВо вторник мы возвращаемся из отпуска .​"
+      },
+      {
+        "id": "b543bca4-f522-4b9d-8f12-3d45950de638",
+        "particle": "by",
+        "verb": "come by",
+        "translation": "заходить, приходить; доставать, получать",
+        "example": "Jenny came by the house earlier, looking for you.\nДженни приходила к нам домой недавно , искала тебя ."
+      },
+      {
+        "id": "52eecc52-b727-4e82-9bb5-3bd57a7b1759",
+        "particle": "down",
+        "verb": "come down",
+        "translation": "спускаться, опускаться; падать",
+        "example": "I hope house prices in this neighborhood come down so that we can actually afford one.\nНадеюсь , цены на жилье в этом районе снизятся , и мы сможем себе его позволить ."
+      },
+      {
+        "id": "ae8fa9b6-15cf-43f0-9bdd-3ba8dcfd61a8",
+        "particle": "from",
+        "verb": "come from",
+        "translation": "происходить из, от (по причине), взяться",
+        "example": "I understand where you're coming from, but I still don't agree with your decision.\nЯ понимаю, к чему вы клоните , но я все равно не согласен с вашим решением."
+      },
+      {
+        "id": "2ee5f206-22fc-4ca5-bd60-9b20f78e6b9a",
+        "particle": "in",
+        "verb": "come in",
+        "translation": "входить; приходить, прибывать",
+        "example": "Come in! I'm in the kitchen!\nЗаходите ! Я на кухне !"
+      },
+      {
+        "id": "35c382cc-8db3-43d8-8e8a-7fed42e3453c",
+        "particle": "off",
+        "verb": "come off",
+        "translation": "отделяться, отрываться, покидать, сходить, слезать",
+        "example": "Come off that rickety old slide right now!\nСлезай с этой старой шаткой горки немедленно !"
+      },
+      {
+        "id": "7f829215-2bd9-4ab3-8a6e-c73bef45ed71",
+        "particle": "on",
+        "verb": "come on",
+        "translation": "давай!, пошли!; кончай!, брось!; проходить,приходить",
+        "example": "Come on, man, we all know you're lying. This is just pathetic.\nДа брось, мужик, мы все знаем, что ты врешь. Это просто жалко."
+      },
+      {
+        "id": "0a41e947-e0da-4220-953f-f498cdf2e8bd",
+        "particle": "out",
+        "verb": "come out",
+        "translation": "выходить; появляться, возникать; получаться",
+        "example": "I didn't mean to insult her hairdo, it just came out!\nМы не планировали портить ей сюрприз , это получилось как - то случайно !​ ​​​​"
+      },
+      {
+        "id": "4db9a131-3e4c-4a2e-8a61-f99768c6003c",
+        "particle": "over",
+        "verb": "come over",
+        "translation": "приходить, подходить, заезжать",
+        "example": "Come over here and look at the layout I've designed.\nПодойдите сюда и посмотрите на макет , который я разработал."
+      },
+      {
+        "id": "4843a8aa-fc0a-4a32-824a-381a9268390e",
+        "particle": "up",
+        "verb": "come up",
+        "translation": "появляться, возникать; подниматься, приближаться",
+        "example": "Unfortunately, the idea of a raise never came up in our meeting.\nК сожалению, идея повышения зарплаты так и не возникла на нашей встрече ."
+      }
+    ]
+  },
+  {
+    "id": "57f2067a-661a-4b1f-b8dc-f8a1e8450326",
+    "verb": "count",
+    "phr_verbs": [
+      {
+        "id": "74ac8e31-c4a3-4a2f-a542-c3ce1fb4c177",
+        "particle": "on",
+        "verb": "count on",
+        "translation": "рассчитывать на что-л., кого-л.",
+        "example": "We're counting on you to handle this problem, Janet.\nМы рассчитываем , что вы справитесь с этой проблемой, Джанет."
+      }
+    ]
+  },
+  {
+    "id": "6b8d4666-3ffb-438f-bcaa-45320453c04f",
+    "verb": "cut",
+    "phr_verbs": [
+      {
+        "id": "d13d6260-6243-42f5-b89d-24fa2127a5ed",
+        "particle": "off",
+        "verb": "cut off",
+        "translation": "отрезать, отсекать; прерывать",
+        "example": "Hey, don't cut me off—I'm not done my story.\nЭй, не перебивайте меня — я еще не закончил свою историю."
+      },
+      {
+        "id": "1354043a-99a6-4a00-bc4e-7c2c24298d94",
+        "particle": "out",
+        "verb": "cut out",
+        "translation": "вырезать; прекращать(ся); пресекать",
+        "example": "I cut out some coupons but totally forgot to bring them to the store with me.\nЯ вырезала несколько купонов , но совершенно забыла взять их с собой в магазин ."
+      }
+    ]
+  },
+  {
+    "id": "d1abe4e3-35cc-43f0-a592-b44b9a9d0525",
+    "verb": "end",
+    "phr_verbs": [
+      {
+        "id": "d9786819-c8df-4c75-92db-6a60022ecc12",
+        "particle": "up",
+        "verb": "end up",
+        "translation": "кончить, закончить, попасть, оказаться",
+        "example": "Thanks to that traffic jam, I ended up being late to the meeting.\nИз - за этой пробки я поздно попал на встречу .​"
+      }
+    ]
+  },
+  {
+    "id": "28f6aca9-db0f-4a58-b869-53af7516e1e8",
+    "verb": "fall",
+    "phr_verbs": [
+      {
+        "id": "9bec7a9c-86e2-4569-9058-2570ebc2b923",
+        "particle": "down",
+        "verb": "fall down",
+        "translation": "падать, упасть, рухнуть",
+        "example": "Lucy fell down at the playground and scraped her knee.\nЛюси упала на детской площадке и поцарапала колено .​"
+      },
+      {
+        "id": "3a72f9b0-58c3-4c7e-a4a1-e2a1d760f4ae",
+        "particle": "off",
+        "verb": "fall off",
+        "translation": "падать; отпадать, отваливаться",
+        "example": "Please be careful not to fall off the roof!\nБудьте осторожны , не упадите с крыши !​"
+      }
+    ]
+  },
+  {
+    "id": "c52fc6cb-7e87-4b73-a490-4ac0531c4874",
+    "verb": "figure",
+    "phr_verbs": [
+      {
+        "id": "b11ab89c-c02b-45ef-8c8f-004de87781ff",
+        "particle": "out",
+        "verb": "figure out",
+        "translation": "сообразить, выяснить, понять, разобраться",
+        "example": "Can you figure out these instructions?\nСможете ли вы разобраться в этих инструкциях ?"
+      }
+    ]
+  },
+  {
+    "id": "c8d69907-bba8-408d-ba05-9dc56c72f5b2",
+    "verb": "find",
+    "phr_verbs": [
+      {
+        "id": "e3870b74-07c4-4f32-9246-73348b1232e8",
+        "particle": "out",
+        "verb": "find out",
+        "translation": "выяснить, разузнать, обнаружить, найти",
+        "example": "Guess what I found out?\nУгадайте, что я узнал ?"
+      }
+    ]
+  },
+  {
+    "id": "4d79f0b2-6ad1-4cf6-a7a2-8bcba72b33ae",
+    "verb": "get",
+    "phr_verbs": [
+      {
+        "id": "f7397dbd-c671-4e7f-a2ee-bad293633799",
+        "particle": "along",
+        "verb": "get along",
+        "translation": "уживаться, ладить; поживать; справляться сделами",
+        "example": "I'm glad you finally got to meet my brother—I knew you two would get along.\nЯ рад, что ты наконец познакомился с моим братом. Я знал , что вы поладите ."
+      },
+      {
+        "id": "61fde1f9-961a-4d00-b70d-d9d40f230bb0",
+        "particle": "around",
+        "verb": "get around",
+        "translation": "обойти, преодолеть; справиться; перехитрить",
+        "example": "I know I can find a way to get around the rule.\nЯ знаю , что могу найти способ обойти правило ."
+      },
+      {
+        "id": "d2e594aa-5b30-4a0d-a8b8-79d74bcf9c6a",
+        "particle": "away",
+        "verb": "get away",
+        "translation": "удрать, ускользнуть; уходить",
+        "example": "The robber is getting away! Stop him!\nГрабитель убегает ! Остановите его !"
+      },
+      {
+        "id": "5a2cc1de-30d3-41e1-a44a-cd3cc7f0b3f9",
+        "particle": "down",
+        "verb": "get down",
+        "translation": "опустить(ся)",
+        "example": "The dog refuses to get down off the table.\nСобака отказывается слезать со стола .​"
+      },
+      {
+        "id": "26957b47-0e75-450f-8b72-444f391ae0c7",
+        "particle": "in",
+        "verb": "get in",
+        "translation": "войти, забраться в, проникнуть, попасть в",
+        "example": "No, I forgot my key, so I can't get in.\nНет, я забыл ключ , поэтому не могу войти ."
+      },
+      {
+        "id": "7a5cf4e3-1fd5-45f3-8e24-186caa2f2a02",
+        "particle": "off",
+        "verb": "get off",
+        "translation": "выходить, покидать; уносить, удалять; уходи!",
+        "example": "Hey, get your feet off the table!\nЭй , уберите ноги со стола !"
+      },
+      {
+        "id": "6bbd846c-2275-405e-b54c-5f29020f95d7",
+        "particle": "on",
+        "verb": "get on",
+        "translation": "садиться на (в); приступить к; продолжить",
+        "example": "Once we get on this train, we are free like a bird. \nКак только мы сядем в этот поезд, мы станем свободными как птица."
+      },
+      {
+        "id": "84908e49-446e-4856-b576-207943fd4ca9",
+        "particle": "out",
+        "verb": "get out",
+        "translation": "уходить, уезжать; выходить; вынимать,вытаскивать",
+        "example": "We need to get out of here before the police show up!\nНам нужно убираться отсюда , пока не появилась полиция !​"
+      },
+      {
+        "id": "1f34a33e-bb0a-4d65-a186-bb51ca7f9c7c",
+        "particle": "over",
+        "verb": "get over",
+        "translation": "справиться; понять; добраться до; перейти,перелезть",
+        "example": "You need to get over the fact that I'm moving to Indonesia next month\nТебе нужно смириться с тем , что в следующем месяце я переезжаю в Индонезию ."
+      },
+      {
+        "id": "2942a3c7-0630-4278-a212-7fdc97314ee9",
+        "particle": "through",
+        "verb": "get through",
+        "translation": "проходить, проникать через; выдержать,справиться",
+        "example": "I don't know how she managed to get through that traumatizing experience.\nЯ не знаю , как ей удалось пережить этот травмирующий опыт ."
+      },
+      {
+        "id": "f248caf1-1e04-4f81-9da6-067293cecde8",
+        "particle": "up",
+        "verb": "get up",
+        "translation": "вставать, подниматься; просыпаться",
+        "example": "Come on, kids, get up—it's time to go.\nДавайте , дети, вставайте — пора идти ."
+      }
+    ]
+  },
+  {
+    "id": "e8f077ed-b2a5-444f-947f-02de359c4b2e",
+    "verb": "give",
+    "phr_verbs": [
+      {
+        "id": "be6ef815-a1ff-4aca-a1ab-f5a18840ba10",
+        "particle": "up",
+        "verb": "give up",
+        "translation": "сдаться, отказаться; оставить, бросить; отдавать",
+        "example": "He’s definitely got better cards. You’d better give in. \nУ него явно карты лучше. Лучше сдайся."
+      }
+    ]
+  },
+  {
+    "id": "b57abbc7-ff7b-402d-8ce4-0d137793f07e",
+    "verb": "go",
+    "phr_verbs": [
+      {
+        "id": "0589a38a-11be-4cbd-8a45-4065c7f7fcd5",
+        "particle": "along",
+        "verb": "go along",
+        "translation": "соглашаться, поддерживать; идти вместе,сопровождать",
+        "example": "Can I go along with you to the mall? I need to get a new alarm clock.\nМогу ли я пойти с тобой в торговый центр ? Мне нужно купить новый будильник ."
+      },
+      {
+        "id": "5f955162-961f-44e3-8e70-2799f35a1b3e",
+        "particle": "around",
+        "verb": "go around",
+        "translation": "расхаживать повсюду; обойти вокруг; двигатьсяпо кругу",
+        "example": "Go around to the back if the front door is locked.\nЕсли входная дверь заперта , обойдите ее сзади"
+      },
+      {
+        "id": "079130f5-0ff3-4e99-b610-27444514ec25",
+        "particle": "away",
+        "verb": "go away",
+        "translation": "уходить, уезжать",
+        "example": "I only went away for a few minutes—how did I miss that key detail in the episode?\nЯ отлучился всего на несколько минут — как я мог пропустить такую ​​ключевую деталь в эпизоде ?"
+      },
+      {
+        "id": "a926d1a2-7773-4f8f-9f8e-33aebe66ae97",
+        "particle": "back",
+        "verb": "go back",
+        "translation": "возвращаться",
+        "example": "I can't believe you're going back to school after all these years.\nНе могу поверить , что ты возвращаешься в школу после всех этих лет."
+      },
+      {
+        "id": "6f230538-e5d2-4542-8258-81f241c07059",
+        "particle": "by",
+        "verb": "go by",
+        "translation": "проходить/проезжать мимо; проходить (о времени)",
+        "example": "Ugh, time goes by so slowly when I'm in math class.\nОх , как медленно тянется время на уроках математики .​"
+      },
+      {
+        "id": "2b6d2b02-fce3-4ca0-aa8d-cfe914f9695d",
+        "particle": "down",
+        "verb": "go down",
+        "translation": "спускаться, идти, ехать вниз",
+        "example": "Stocks in the company have gone down for the third straight week in a row.\nАкции компании падают третью неделю подряд ."
+      },
+      {
+        "id": "1868d3a8-5f78-4c26-838c-3efe2a005e22",
+        "particle": "in",
+        "verb": "go in",
+        "translation": "входить",
+        "example": "Everyone stood outside chatting for a while before going in.\nВсе постояли некоторое время снаружи и поболтали, прежде чем войти ."
+      },
+      {
+        "id": "61cf7d13-1f46-4628-a995-488a4125fb22",
+        "particle": "off",
+        "verb": "go off",
+        "translation": "уходить, уезжать; убегать, улетать",
+        "example": "If you want Mom to get something for you, you better talk to her before she goes off to the store.\nЕсли хочешь , чтобы мама что-то тебе купила , лучше поговори с ней до того , как она уйдет в магазин ."
+      },
+      {
+        "id": "d5e711b6-ce8a-4664-af9c-ad5a040543bb",
+        "particle": "on",
+        "verb": "go on",
+        "translation": "продолжай(те)!; продолжать(ся); происходить",
+        "example": "You talk too much, Bob. You just go on and on.\n. Ты слишком много говоришь , Боб . Ты просто продолжаешь."
+      },
+      {
+        "id": "2ea8aba9-5553-4d3c-9acd-1bca3ca6ba96",
+        "particle": "over",
+        "verb": "go over",
+        "translation": "подойти, приехать; повторять, перепроверять",
+        "example": "Can you go over these instructions again? I'm still a little confused.\nМожете ли вы еще раз перепроверить эти инструкции ? Я все еще немного запутался ."
+      },
+      {
+        "id": "41ab5a3a-7748-46c8-9aee-dbb166db1645",
+        "particle": "through",
+        "verb": "go through",
+        "translation": "пройти через, сквозь; повторять; тщательноизучать",
+        "example": "Once you go through this corridor, turn right.\nПройдя по этому коридору , поверните направо ."
+      },
+      {
+        "id": "0eaba9af-1bdb-412e-b65a-3cbd9ea91a9a",
+        "particle": "up",
+        "verb": "go up",
+        "translation": "подниматься",
+        "example": "House prices in our neighborhood have gone up significantly, so we're thinking of selling.\nЦены на жилье в нашем районе значительно выросли , поэтому мы думаем о продаже."
+      }
+    ]
+  },
+  {
+    "id": "2bd28906-e868-463c-889d-334ff976110d",
+    "verb": "grow",
+    "phr_verbs": [
+      {
+        "id": "d2514399-d7be-40a8-bb49-1d0c13902cd1",
+        "particle": "up",
+        "verb": "grow up",
+        "translation": "вырастать, становиться взрослым",
+        "example": "I want to be a vet when I grow up. \nЯ хочу стать ветеринаром, когда вырасту."
+      }
+    ]
+  },
+  {
+    "id": "c3113a18-e0e0-4b5b-85fe-9d52b83d3fdd",
+    "verb": "hang",
+    "phr_verbs": [
+      {
+        "id": "f55a9671-9b5f-4e0d-997f-2892117f7e0d",
+        "particle": "around",
+        "verb": "hang around",
+        "translation": "слоняться, бездельничать, болтаться без дела",
+        "example": "There are always kids hanging around the diner after school\nПосле школы в закусочной всегда тусуются дети ."
+      },
+      {
+        "id": "fdb39703-d398-4c62-afb1-0d83b9b8efbc",
+        "particle": "on",
+        "verb": "hang on",
+        "translation": "держи(те)сь!; подожди(те)!; цепляться,хвататься",
+        "example": "The stiff hat hung on a nail. \nШляпа висела на гвозде."
+      },
+      {
+        "id": "b8536329-777a-4fd7-8f05-9277038c5d50",
+        "particle": "up",
+        "verb": "hang up",
+        "translation": "повесить, положить трубку; висеть; повеситьчто-л.",
+        "example": "Don’t hang up on me — we must talk! \nНе бросай трубку — мы должны поговорить!"
+      }
+    ]
+  },
+  {
+    "id": "31f9f26a-029f-4f99-b6e1-f6346b5948fd",
+    "verb": "help",
+    "phr_verbs": [
+      {
+        "id": "f7900ace-ec93-4f56-9c22-a1b02f42a618",
+        "particle": "out",
+        "verb": "help out",
+        "translation": "помочь, выручить, вывести из затруднит. положения",
+        "example": "I help my wife out with the childcare one or two afternoons a week.\n Один или два раза в неделю я помогаю жене по уходу за детьми."
+      }
+    ]
+  },
+  {
+    "id": "b17f19c1-13a1-4bba-9c5c-f22a309b0663",
+    "verb": "hold",
+    "phr_verbs": [
+      {
+        "id": "d1ec08ea-9faf-4658-a565-c230648698af",
+        "particle": "on",
+        "verb": "hold on",
+        "translation": "держи(те)сь!; подожди(те); держаться,вцепиться",
+        "example": "Hold on tight—I don't want to drop you!\nДержись крепче — я не хочу тебя уронить!"
+      },
+      {
+        "id": "59d5f64a-e239-4161-b372-0464454bfba6",
+        "particle": "out",
+        "verb": "hold out",
+        "translation": "протягивать, вытягивать",
+        "example": "Can you hold out a towel for me to dry my hands?\nМожешь дать мне полотенце , чтобы вытереть руки ?​ ​"
+      },
+      {
+        "id": "52941080-beb8-4a52-b5a4-3e472eb77856",
+        "particle": "up",
+        "verb": "hold up",
+        "translation": "поднимать",
+        "example": "I've never had a better feeling than when I held up that trophy.\nЯ никогда не испытывал более приятных ощущений , чем тогда, когда держал в руках этот трофей ."
+      }
+    ]
+  },
+  {
+    "id": "3b1eca41-476f-4d2d-9158-aff5f6d91769",
+    "verb": "keep",
+    "phr_verbs": [
+      {
+        "id": "903e3c46-e39f-4c9c-9c54-92d2a839ba32",
+        "particle": "on",
+        "verb": "keep on",
+        "translation": "продолжать",
+        "example": "Good luck keeping yourself on that wild horse!\nУдачи вам в удержании себя на этой дикой лошади!"
+      },
+      {
+        "id": "925576ca-ba8a-4636-a138-211bab3eaa01",
+        "particle": "up",
+        "verb": "keep up",
+        "translation": "не отставать; продолжать; поддерживать",
+        "example": "You're doing a great job so far, James! Keep it up!\nПока что ты отлично справляешься , Джеймс ! Так держать !"
+      }
+    ]
+  },
+  {
+    "id": "a466734c-0bb6-48af-94fd-fd2156a8bdbf",
+    "verb": "knock",
+    "phr_verbs": [
+      {
+        "id": "ef7ea42e-9cac-46b0-bfad-078d697fef44",
+        "particle": "down",
+        "verb": "knock down",
+        "translation": "сбить с ног; сносить, разрушать; понижать",
+        "example": "They're going to use a wrecking ball to knock down that building.\nОни собираются снести это здание с помощью таранного шара .​"
+      },
+      {
+        "id": "2435eb76-9edb-4eaa-bf29-93ec05987a8a",
+        "particle": "off",
+        "verb": "knock off",
+        "translation": "уничтожить; прекратить; уронить, сбросить",
+        "example": "That's the third time this week that I've knocked a glass off the counter.\nЭто уже третий раз за эту неделю , когда я сбиваю стакан со стойки ."
+      },
+      {
+        "id": "fa7c301f-6601-4959-b814-584ac5182937",
+        "particle": "out",
+        "verb": "knock out",
+        "translation": "оглушить, вырубить; поразить; выбить",
+        "example": "The show of support from everyone just knocked me out.\nДемонстрация поддержки со стороны всех меня просто сбила с ног ."
+      }
+    ]
+  },
+  {
+    "id": "8ad8c98c-f85b-4c95-9a02-9278a1dd44b5",
+    "verb": "let",
+    "phr_verbs": [
+      {
+        "id": "151b2579-e4e6-44a1-9f1e-899a51330f33",
+        "particle": "in",
+        "verb": "let in",
+        "translation": "впускать",
+        "example": "We don't usually let the cat in the house - Обычно мы не пускаем кошку в дом."
+      },
+      {
+        "id": "d9f8d08b-9fd8-4cf0-9dd4-c66c9f63eb7b",
+        "particle": "out",
+        "verb": "let out",
+        "translation": "выпускать, освобождать",
+        "example": "I let out the kids for a while so they could burn off some energy - Я отпускаю детей на время, чтобы они могли сжечь немного энергии."
+      }
+    ]
+  },
+  {
+    "id": "e813c059-6ad5-4b37-b0a3-b18cc647b8ad",
+    "verb": "line",
+    "phr_verbs": [
+      {
+        "id": "19a3d35e-bda0-4f03-8e59-e4c1e8109994",
+        "particle": "up",
+        "verb": "line up",
+        "translation": "выстраивать(ся), становиться в линию, ряд, очередь",
+        "example": "Please line up the children in a row - Пожалуйста, выстройте детей в ряд"
+      }
+    ]
+  },
+  {
+    "id": "25814f77-9e3a-4775-9794-f9b787ef94bf",
+    "verb": "look",
+    "phr_verbs": [
+      {
+        "id": "78b320dc-65cc-494f-bd86-599a6be53830",
+        "particle": "after",
+        "verb": "look after",
+        "translation": "присматривать",
+        "example": "Tom came to look after the children - Том пришел присмотреть за детьми."
+      },
+      {
+        "id": "8aacbf1e-3975-4c7a-8cc2-f7df1db29325",
+        "particle": "along",
+        "verb": "look along",
+        "translation": "смотреть вдоль",
+        "example": "If you look along the forest, you can see many hills - Если посмотреть вдоль леса, то можно увидеть множество холмов."
+      },
+      {
+        "id": "9ab1c2d0-974a-44b7-bf2d-2dd34a1b061f",
+        "particle": "back",
+        "verb": "look back",
+        "translation": "оглядываться, оборачиваться",
+        "example": "Honestly, it's not so nice to look back all the time - Честно говоря, не так уж приятно всё время оглядываться назад."
+      },
+      {
+        "id": "e25caedf-5e07-4a4f-9567-7a21e19e02c1",
+        "particle": "down",
+        "verb": "look down",
+        "translation": "смотреть, смотреть вниз",
+        "example": "She looked down from the top of the mountain and marveled at the view. — Она посмотрела вниз с вершины горы и восхитилась видом.  \nYou have to dress like this so people don't look down on you - Вы должны так одеваться, чтобы люди не смотрели на вас свысока."
+      },
+      {
+        "id": "fa8d950f-0396-4586-85ef-58c67bd0a7cb",
+        "particle": "for",
+        "verb": "look for",
+        "translation": "искать, подыскивать; присматривать",
+        "example": "They are looking for a new job — Они ищут новую работу.\nI’m looking for my keys. — Я ищу свои ключи."
+      },
+      {
+        "id": "9a9c68fb-54bb-456e-882f-38845d46305f",
+        "particle": "forward to",
+        "verb": "look forward to",
+        "translation": "ожидать с удовольствием/с нетерпением",
+        "example": "I'm looking forward to visiting my family this Christmas - Я с нетерпением жду возможности навестить свою семью в это Рождество."
+      },
+      {
+        "id": "2b125b7d-39ba-48b1-8154-de5f4a0f050f",
+        "particle": "out",
+        "verb": "look out",
+        "translation": "выглядывать; быть осторожным",
+        "example": "Look out—there's slippery rocks on that trail - Осторожно - на тропе скользкие камни.\nI looked out of the door to see what the weather was like - Я выглянул в дверь, чтобы посмотреть, какая была погода."
+      },
+      {
+        "id": "2b3e977b-39c2-4293-a7b2-ce5408ec0a6b",
+        "particle": "over",
+        "verb": "look over",
+        "translation": "смотреть; просматривать; осматривать",
+        "example": "The school nurse looked me over and said I was fine to go back to class - Школьная медсестра осмотрела меня и сказала, что я могу вернуться в класс.\nI'll look over your report tonight and give you feedback in the morning - Я просмотрю ваш отчет сегодня вечером и дам отзыв утром.\nI think you had better have the doctor look you over - Я думаю, тебе лучше попросить врача осмотреть тебя."
+      }
+    ]
+  },
+  {
+    "id": "25f5c8af-3353-456a-92e2-174d4c5f9810",
+    "verb": "make",
+    "phr_verbs": [
+      {
+        "id": "6e37061d-fa54-4e2a-8094-b425c374ba75",
+        "particle": "out",
+        "verb": "make out",
+        "translation": "понимать, различать; составлять; справляться",
+        "example": "I could just make out a figure in the darkness. - Я едва мог различить фигуру в темноте. \nI can't make out the meaning of this poem. — Я не могу понять смысла этого стихотворения."
+      },
+      {
+        "id": "a0a41a87-4521-4973-b7e2-a831f3f2d903",
+        "particle": "up",
+        "verb": "make up",
+        "translation": "составлять; сочинять; компенсировать",
+        "example": "One of my students tends to make up stories about his dog eating his homework — Один из моих студентов имеет склонность сочинять истории о своей собаке, съедающей его домашнюю работу.\nA warm and sunny September made up for a miserable wet August. - Теплый и солнечный сентябрь стал компенсацией за жалкий мокрый август."
+      }
+    ]
+  },
+  {
+    "id": "fb2473fd-93eb-4a44-b57e-e86a03419923",
+    "verb": "move",
+    "phr_verbs": [
+      {
+        "id": "3d52cfd2-3e6e-4091-989d-7c4b82bb0431",
+        "particle": "in",
+        "verb": "move in",
+        "translation": "въезжать/ поселяться; входить",
+        "example": "Someone's moving in on Sunday - Кто-то въезжает в воскресенье."
+      },
+      {
+        "id": "f16a8684-2a8f-49ce-8040-9a1cc2022d5b",
+        "particle": "on",
+        "verb": "move on",
+        "translation": "идти дальше; продолжать движение",
+        "example": "They rested for an hour and moved on — Они отдохнули в течение часа и двинулись дальше.\nIt’s been a nightmare, but now I just want to forget about it and move on. - Это был кошмар, но теперь я просто хочу забыть об этом и двигаться дальше."
+      },
+      {
+        "id": "4db9d85e-34e7-4d09-ae6e-76eabb64ff1e",
+        "particle": "out",
+        "verb": "move out",
+        "translation": "съезжать; выдвигаться, выходить",
+        "example": "He wants to move out of his place so that we can live together - Он хочет съехать со своей квартиры, так что мы сможем жить вместе.\nWe'll move out in the morning - Выдвигаемся в утром."
+      }
+    ]
+  },
+  {
+    "id": "3c3f14f6-1fd3-4231-8e1c-07d2d540d6a7",
+    "verb": "pass",
+    "phr_verbs": [
+      {
+        "id": "4ee374c3-df55-4dfe-93f6-7c83c4060e35",
+        "particle": "out",
+        "verb": "pass out",
+        "translation": "терять сознание; раздавать, распределять",
+        "example": "I was hit on the head and passed out. - Меня ударили по голове, и я потерял сознание. \nThe hall was silent as the examination papers were passed out. - В зале воцарилась тишина, когда раздавали экзаменационные работы."
+      }
+    ]
+  },
+  {
+    "id": "e6d34df3-3cfb-4ee8-8f9a-e30ad9ec853c",
+    "verb": "pick",
+    "phr_verbs": [
+      {
+        "id": "6a1ee252-4bfe-417e-ab7c-25111e54ae43",
+        "particle": "up",
+        "verb": "pick up",
+        "translation": "взять, подхватить, подобрать, поднять (в очень широком смысле слова: любой предмет, человека, сигнал, звук, запах, след ит.п.)",
+        "example": "She's picked up flu along the way. - В дороге она подхватила простуду.\nЖених взял на руки невесту. The groom picked up the bride.\nEmma bent over to pick up the coins. - Эмма наклонилась, чтобы подобрать монеты."
+      }
+    ]
+  },
+  {
+    "id": "c72a9fbf-8d5f-4b6d-af58-c588a703092c",
+    "verb": "point",
+    "phr_verbs": [
+      {
+        "id": "79dbf36b-75e1-45f8-a5f9-7f1dfc2bf777",
+        "particle": "out",
+        "verb": "point out",
+        "translation": "указывать; подчеркивать; заметить",
+        "example": "The guide pointed out various historic monuments. — Гид указал на различные исторические памятники.\nCritics point out that the prince, on his income, should be paying tax. - Критики подчеркивают, что принц с его доходами должен платить налог."
+      }
+    ]
+  },
+  {
+    "id": "d57f554f-cadd-4e59-b5bc-454b058ff603",
+    "verb": "pull",
+    "phr_verbs": [
+      {
+        "id": "63a47b1e-748f-4204-9811-bd6e33285853",
+        "particle": "a way",
+        "verb": "pull a way",
+        "translation": "отъезжать, трогаться; отпрянуть, отстраниться",
+        "example": "After his words, Jane pull a way — после его слов Джейн отпрянула."
+      },
+      {
+        "id": "e0937f3f-4ded-48e9-b284-eeec29e6c43e",
+        "particle": "on",
+        "verb": "pull on",
+        "translation": "натягивать (одевать); тянуть (на себя)",
+        "example": "She pulled on her favorite sweater before going out — Она надела любимый свитер перед выходом.\nI pulled on the jeans — they were a bit big on me. — Я натянул джинсы — они были чуть великоваты."
+      },
+      {
+        "id": "27dfd7e2-4c98-4a94-b949-6b505909f819",
+        "particle": "out",
+        "verb": "pull out",
+        "translation": "вытаскивать, вынимать; отъезжать, выезжать",
+        "example": "He pulled out a flask from his pocket - Он вытащил фляжку из кармана.\nWe reached the station too late, just as the train was pulling out — Мы пришли на станцию с опозданием, поезд как раз отходил."
+      },
+      {
+        "id": "ca6740b6-f83b-4d2c-89d5-97ad19480a02",
+        "particle": "up",
+        "verb": "pull up",
+        "translation": "подъезжать, останавливаться",
+        "example": "I saw your car pull up — Я видел, как подъехала твоя машина.\nHe pulled up at the traffic lights. Он остановился на светофоре."
+      }
+    ]
+  },
+  {
+    "id": "0cec85b3-588b-4f68-91bf-39d5c7f21009",
+    "verb": "put",
+    "phr_verbs": [
+      {
+        "id": "805ee186-20a1-448d-831f-dd4217b37f20",
+        "particle": "away",
+        "verb": "put away",
+        "translation": "убирать, отложить, прятать",
+        "example": "Put away the books - Отложи книги в сторону.\nTry and put away a little each month. - Старайся откладывать понемногу каждый месяц. \nHe's put away for a crime he didn't commit - Его посадили, за преступление, которое он не совершал."
+      },
+      {
+        "id": "e1edac96-90a8-4c71-84d5-0aa1aafe2744",
+        "particle": "down",
+        "verb": "put down",
+        "translation": "положить, опустить",
+        "example": "Emma put her bag down and went upstairs. - Эмма поставила сумку и поднялась по лестнице. \nPut down that weapon - Опустите оружие."
+      },
+      {
+        "id": "5f6533e7-9b8f-40ae-bc69-27e3194f605b",
+        "particle": "in",
+        "verb": "put in",
+        "translation": "вставлять",
+        "example": "I put in a lot of effort to complete this project on time — Я вложил много усилий, чтобы завершить этот проект в срок.\nCould I put in a word? - Могу я вставить словечко?"
+      },
+      {
+        "id": "4f3dbf9b-3434-4f12-a118-668b785c786c",
+        "particle": "on",
+        "verb": "put on",
+        "translation": "надевать, одевать; включать, приводить вдействие",
+        "example": "Hurry up! Put your jacket on! - Поторопись! Надевай свою куртку!\nShe's putting on her make-up. - Она наносит свой макияж.\nDo you mind if I put some music on? - Не возражаешь, если я включу музыку?"
+      },
+      {
+        "id": "0d2c243c-f5a6-41df-8eaa-090f1985017a",
+        "particle": "out",
+        "verb": "put out",
+        "translation": "вытягивать; выставлять; тушить",
+        "example": "Put out your hands - Вытяните свои руки.\nOnce I had to put out a fire in a pine forest - Однажды мне пришлось тушить пожар в сосновом лесу."
+      },
+      {
+        "id": "d75a1d75-7d6e-45e9-b6c7-7a30379f3f91",
+        "particle": "up",
+        "verb": "put up",
+        "translation": "поднимать; строить; финансировать",
+        "example": "I put my hand up to ask the teacher a question — Я поднял руку, чтобы задать учителю вопрос.\nHe was putting up a new fence at his home — Он строил новый забор вокруг дома.\nHe’s looking for an investor to put up €100,000 to market his product. - Он ищет инвестора, который вложит 100 тыс. евро в продвижение его продукта."
+      }
+    ]
+  },
+  {
+    "id": "1ab77168-fa67-4e45-bf97-c7b9bb677a20",
+    "verb": "run",
+    "phr_verbs": [
+      {
+        "id": "492ef6d5-133b-4cb1-82e6-db3f3be9d9ca",
+        "particle": "away",
+        "verb": "run away",
+        "translation": "убегать, удирать",
+        "example": "Looking at all the accusing faces, she felt a sudden urge to run away. - При виде этих осуждающих лиц ей вдруг захотелось убежать."
+      },
+      {
+        "id": "a408d74a-6469-4f1e-8b51-e22c4c0d34a5",
+        "particle": "into",
+        "verb": "run into",
+        "translation": "встретить, столкнуться, наскочить",
+        "example": "I ran into my old friend at the movies — Я столкнулся со своим старым другом в кино.\nI ran into Dr. Judd today - Я встретил сегодня доктора Джадда."
+      },
+      {
+        "id": "1b002a22-f863-4dc9-ac17-9d8a0c930463",
+        "particle": "off",
+        "verb": "run off",
+        "translation": "удирать, убегать, сбегать",
+        "example": "She ran off with another man — Она сбежала с другим мужчиной."
+      },
+      {
+        "id": "dd259191-ab25-48be-947a-56181d84afbd",
+        "particle": "out",
+        "verb": "run out",
+        "translation": "выбегать; кончаться, истощаться",
+        "example": "Mother said you'd run out of vegetables, so I brought some - Мама сказала, что у тебя закончились овощи, так я принесла немного.\nHe's run out there through the back door - Он выбежал через черный ход."
+      },
+      {
+        "id": "ae68c27b-43ea-4eef-afcd-7c7fc0bbf836",
+        "particle": "over",
+        "verb": "run over",
+        "translation": "подбегать; переехать, задавить",
+        "example": "My dog runs over to me - Моя собака подбегает ко мне.\nI wonder if I ran over an animal this evening - Я думаю, что переехал какого-то зверя сегодня ночью.\nHe got run over by a car - Он попал под машину."
+      }
+    ]
+  },
+  {
+    "id": "38db6322-332c-4c4f-bc75-7ff648d986bf",
+    "verb": "set",
+    "phr_verbs": [
+      {
+        "id": "13465165-2c54-4f1e-a22a-ca656d3b4930",
+        "particle": "down",
+        "verb": "set down",
+        "translation": "поставить, положить",
+        "example": "Can you set down your bag? — Ты можешь положить свою сумку?\nHe set his drink down on the table — Он поставил свой напиток на стол."
+      },
+      {
+        "id": "9e8dd3b1-1497-4f8e-ad43-27dc9d38f479",
+        "particle": "off",
+        "verb": "set off",
+        "translation": "отправляться (в путь); вызывать (действие)",
+        "example": "We set off on a long journey to Australia — Мы отправились в далёкое путешествие в Австралию.\nLoud noises sometimes set off the alarm — Громкий шум иногда приводит в действие сигнализацию."
+      },
+      {
+        "id": "537e8aba-f115-40ae-8711-6af3ffce99cc",
+        "particle": "up",
+        "verb": "set up",
+        "translation": "устраивать, организовывать, создавать",
+        "example": "Our club sets up meetings with famous writers — Наш клуб организовывает встречи с известными писателями.\nThey've already set up a remote security lockout - Они успели установить самостоятельную блокировку безопасности."
+      }
+    ]
+  },
+  {
+    "id": "a5ee3870-8c1f-4b01-857a-815d0c121368",
+    "verb": "settle",
+    "phr_verbs": [
+      {
+        "id": "2610ff51-cbe6-4054-996a-0a455dbdc87c",
+        "particle": "down",
+        "verb": "settle down",
+        "translation": "усаживаться; поселяться; успокаиваться",
+        "example": "I can totally settle down here - Я могла бы поселиться здесь навсегда.\nWhy don't you settle down? - Почему бы вам не успокоиться?"
+      }
+    ]
+  },
+  {
+    "id": "84e3e008-1dd1-4d3c-9072-bc26048e9481",
+    "verb": "show",
+    "phr_verbs": [
+      {
+        "id": "41fa4769-5d02-46ed-b850-6bb33a6bb981",
+        "particle": "up",
+        "verb": "show up",
+        "translation": "появляться, приходить",
+        "example": "It was getting late when she finally showed up. - Было уже поздно, когда она наконец появилась."
+      }
+    ]
+  },
+  {
+    "id": "1a429b2d-cbc8-4d59-b35c-9f672f3a2713",
+    "verb": "shut",
+    "phr_verbs": [
+      {
+        "id": "5fe3c11e-6780-4181-8634-245e9f2b6492",
+        "particle": "down",
+        "verb": "shut down",
+        "translation": "закрыть, прикрыть; выключить, отключить",
+        "example": "Our local hardware shop has shut down — Наш местный хозяйственный магазин закрылся.\nOn Monday, the power supply will be shut down for the whole building — В понедельник электричество будет отключено во всём здании."
+      },
+      {
+        "id": "2a2ea760-291c-4b1b-af76-b2057d8b4d2e",
+        "particle": "up",
+        "verb": "shut up",
+        "translation": "заставить замолчать, заткнуть",
+        "example": "Just shut up and listen — Просто заткнись и слушай.  \nShut up - Замолчи."
+      }
+    ]
+  },
+  {
+    "id": "10333f2e-c4aa-4085-8e81-b9f3fbb0dc6e",
+    "verb": "sit",
+    "phr_verbs": [
+      {
+        "id": "5e0348c1-4989-42a8-97c5-c2ca6c77a874",
+        "particle": "back",
+        "verb": "sit back",
+        "translation": "откинуться назад/на спинку сиденья",
+        "example": "Sit back, relax, and enjoy the show! — Сядьте поудобнее, расслабьтесь и наслаждайтесь шоу."
+      },
+      {
+        "id": "fb726d8e-5d9b-4259-939f-2220b88271ce",
+        "particle": "down",
+        "verb": "sit down",
+        "translation": "садиться, усаживаться, занимать место",
+        "example": "Sit down, please - Пожалуйста, садитесь.\nPlease, sit down and make yourselves comfortable. — Пожалуйста, садитесь и устраивайтесь поудобнее."
+      },
+      {
+        "id": "c0d8a8d6-1077-4f7c-8c91-c8d3278b72cc",
+        "particle": "up",
+        "verb": "sit up",
+        "translation": "приподняться, сесть из лежачего положения, не ложиться спать, очень сильно удивиться",
+        "example": "Would you like to sit up and read for a while? - Ты не хочешь приподняться в постели и немного почитать? \nThe book was so interesting that I sat up all night reading it. - Книга была настолько интересной, что я просидел всю ночь за ее чтением. \nThe news that he was getting married really made her sit up. - Новость о том, что он женится, заставила ее замереть на месте."
+      }
+    ]
+  },
+  {
+    "id": "73171dff-8b7d-4289-9195-438e1e80efb7",
+    "verb": "spread",
+    "phr_verbs": [
+      {
+        "id": "46ca7ec7-e561-419b-bd06-8b2cece340a8",
+        "particle": "out",
+        "verb": "spread out",
+        "translation": "растягивать(ся), развертывать(ся), расширять(ся)",
+        "example": "Uh, we decided we can spread out better here. — Ну, мы решили, что здесь нам будет лучше развернуться."
+      }
+    ]
+  },
+  {
+    "id": "5cd422de-02ae-4f62-bfc8-139cb2dc5f23",
+    "verb": "stand",
+    "phr_verbs": [
+      {
+        "id": "cd0665e6-208b-40f4-8d48-b32341e1e847",
+        "particle": "by",
+        "verb": "stand by",
+        "translation": "приготовиться; ждать; поддерживать",
+        "example": "Cabin crew, please stand by for take-off. - Экипажу приготовиться к взлету. \nSo, we are part of this decision and we stand by it — Итак, мы являемся частью этого решения и поддерживаем его.\nHow can you stand by and see him accused of something he didn’t do? - Как вы можете стоять в стороне и спокойно смотреть, как его обвиняют в том, чего он не совершал?"
+      },
+      {
+        "id": "bb403df4-0c46-4d3c-85fb-4ba588f206f0",
+        "particle": "out",
+        "verb": "stand out",
+        "translation": "выделяться, выступать, быть заметным",
+        "example": "Tom is so intelligent that he stands out in class — Том настолько сообразительный, что выделяется на фоне остального класса.\nHis house stands out from the others — Его дом выступает из ряда других"
+      },
+      {
+        "id": "1277d567-be84-4688-bd42-f838f04663f0",
+        "particle": "up",
+        "verb": "stand up",
+        "translation": "вставать, выпрямляться, постоять за себя",
+        "example": "A man at the back stood up to ask a question. - Человек сзади встал, чтобы задать вопрос. \nYou're somebody who stands up for yourself and will protect her - Ты тот, кто сможет постоять за себя и сможет защитить ее."
+      }
+    ]
+  },
+  {
+    "id": "3305bc34-8ec7-4216-943b-f76cb4098f8e",
+    "verb": "stick",
+    "phr_verbs": [
+      {
+        "id": "184a635e-134a-4f34-a030-212da9c1feb7",
+        "particle": "out",
+        "verb": "stick out",
+        "translation": "торчать, выпирать; вытягивать, протягивать",
+        "example": "You'd think somebody'd tell her, her shirt was sticking out - И никто не скажет ей, что ее рубашка торчит."
+      }
+    ]
+  },
+  {
+    "id": "931d02ad-9576-4a35-9cd3-f7336ea61f0f",
+    "verb": "switch",
+    "phr_verbs": [
+      {
+        "id": "5a201721-74e1-4b81-a1a0-36845eded2a4",
+        "particle": "off",
+        "verb": "switch off",
+        "translation": "выключать",
+        "example": "Switch off the light, I'II open the window - Выключи свет, я открою окно.\nHis brain seems to be switched off - Его мозг как-будто отключён."
+      },
+      {
+        "id": "37d40a9c-dbee-4da9-b5b7-78005b9b2d89",
+        "particle": "on",
+        "verb": "switch on",
+        "translation": "включать",
+        "example": "Switch on that radio - Включи радио."
+      }
+    ]
+  },
+  {
+    "id": "6efa10b1-e551-422b-bf98-725a744c32fa",
+    "verb": "take",
+    "phr_verbs": [
+      {
+        "id": "aa24d5bd-381d-4d16-8ec3-5a55efb92f98",
+        "particle": "away",
+        "verb": "take away",
+        "translation": "убирать, забирать; отбирать, отнимать, захватывать дух",
+        "example": "Take these chairs away – we don’t need them. - Уберите эти стулья – они нам не нужны. \nI need to take away the files from the office — Мне нужно забрать файлы из офиса.\nIt was one of those musical moments that can take your breath away. - Это был один из тех музыкальных моментов, от которых захватывает дух."
+      },
+      {
+        "id": "237ec6e8-c637-4462-9b88-1515ab9373b5",
+        "particle": "back",
+        "verb": "take back",
+        "translation": "отдать обратно/назад; взять назад/обратно",
+        "example": "We should take back what they've stolen - Мы должны вернуть то, что они украли.\nWhy don't you take back the couch you gave me? - Почему бы тебе не забрать тот диван, что ты отдал мне?"
+      },
+      {
+        "id": "c3ed2baa-52f0-4c68-a488-7349f70636a6",
+        "particle": "in",
+        "verb": "take in",
+        "translation": "вбирать, воспринимать; впустить, приютить; одурманить; отметить/заметить",
+        "example": "I took in the news with a sense of disbelief — Я воспринял новость с чувством недоумения. \nКотенок был бездомным, и мы его приютили. - The kitten was homeless and we took it in. \nShe took me in completely with her story. Она полностью одурманила меня своей историей. \nHe took in every detail of her appearance. Он отметил каждую деталь ее внешности."
+      },
+      {
+        "id": "8053202a-bf26-43c1-8062-41faa4e56a68",
+        "particle": "off",
+        "verb": "take off",
+        "translation": "снимать (с себя); уходить, уезжать",
+        "example": "Please take off your shoes before entering — Пожалуйста, снимите обувь перед входом.  \nHe took off without telling anyone where he was going — Он ушёл, не сказав никому, куда направляется."
+      },
+      {
+        "id": "5e3ca1ca-3892-43d8-8a14-ed6c09d7f573",
+        "particle": "on",
+        "verb": "take on",
+        "translation": "приобретать, принимать (форму, вид, свойство и т. п.); нанимать",
+        "example": "The clouds took on a beautiful pink hue at sunset. — Облака приобрели красивый розовый оттенок на закате.\nThey’re going to take him on. - Они собираются нанять его."
+      },
+      {
+        "id": "efacb02d-d0bc-4cce-a9a9-261621976dab",
+        "particle": "over",
+        "verb": "take over",
+        "translation": "захватить, овладеть, взять под контроль",
+        "example": "They organized a coup and once more took over the country. Они организовали государственный переворот и снова захватили власть в стране. \nAfter the merger, the larger company took over its smaller competitor. — После слияния большая компания взяла под контроль своего меньшего конкурента."
+      },
+      {
+        "id": "165109b7-7363-475f-a678-e42d4aad1e7b",
+        "particle": "up",
+        "verb": "take up",
+        "translation": "занимать (место, время); заняться чем-л.; подхватить",
+        "example": "This lesson took up so much time!  — Этот урок занял столько времени.\nChris has taken up jogging. - Крис занялся бегом трусцой."
+      }
+    ]
+  },
+  {
+    "id": "88f48cf6-d1fc-47d5-a6f7-b94868b2679b",
+    "verb": "throw",
+    "phr_verbs": [
+      {
+        "id": "a0af04f6-009a-439c-b43a-f8b46f5631ae",
+        "particle": "up",
+        "verb": "throw up",
+        "translation": "выкинуть - тошнить, рвать; выявить",
+        "example": "I feel like I'm gonna throw up - Меня сейчас стошнит.\nHer research has thrown up some interesting facts. - Её исследование выявило несколько интересных фактов."
+      }
+    ]
+  },
+  {
+    "id": "d216e658-e9f0-40df-94cc-1092aa6be1a8",
+    "verb": "turn",
+    "phr_verbs": [
+      {
+        "id": "e3b6d342-5133-4e7c-8e6e-184252151670",
+        "particle": "around",
+        "verb": "turn around",
+        "translation": "оборачиваться",
+        "example": "He turned around and walked back the way he came — Он развернулся и пошёл обратно тем же путём.\nDon’t turn around! - Не оборачивайся!"
+      },
+      {
+        "id": "b0817866-c416-4a60-b95f-01f6db5e2cdc",
+        "particle": "away",
+        "verb": "turn away",
+        "translation": "отворачиваться, отказывать",
+        "example": "It was her turn to clench her jaw and turn away — Настала её очередь стиснуть свои зубы и отвернуться.\nCinema began turning away visitors who hadn't already pre-buy a ticket - Кинотеатр начал отказывать посетителям, которые не купили билет заранее."
+      },
+      {
+        "id": "ecfc8926-01a7-4256-bd2e-4749b54fe10a",
+        "particle": "back",
+        "verb": "turn back",
+        "translation": "повернуться снова, опять; повернуть назад, отступить",
+        "example": "The weather became so bad that they had to turn back — Погода стала настолько плохой, что им пришлось повернуть назад.  \nOur car was turned back at the border — Нашу машину развернули обратно на границе."
+      },
+      {
+        "id": "c0083592-9426-49f2-85a7-454e436fc085",
+        "particle": "down",
+        "verb": "turn down",
+        "translation": "отвергать, отклонять; убавлять, уменьшать",
+        "example": "He asked this girl out for a date, but she turned him down - Он пригласил эту девушку на свидание, но она отвергла его. \nI turned down your offer - Я отклонил ваше предложение.\nHe turned down the volume of the TV. — «Он убавил громкость на телевизоре."
+      },
+      {
+        "id": "a1366367-8d78-4d98-8a18-454ed4e1a071",
+        "particle": "into",
+        "verb": "turn into",
+        "translation": "превращать(ся) в кого-л. или во что-л.",
+        "example": "He was always one who could turn everything into a joke - Он всегда был тем, кто мог превратить все в шутку. \nIn a flash, the prince turned into a frog — В мгновение ока принц превратился в лягушку."
+      },
+      {
+        "id": "d1b6846d-3ede-40f6-b7d6-55beea7b3b4b",
+        "particle": "off",
+        "verb": "turn off",
+        "translation": "выключать; сворачивать, поворачивать",
+        "example": "Always remember to turn off your cell phone while you at the movies - Не забывайте выключать телефон, пока вы находитесь в кинотеатре.\nTheir driver turned off the highway into the middle of nowhere. — Их водитель свернул с шоссе черт знает куда."
+      },
+      {
+        "id": "1d17dce2-7c19-4e09-8937-828c4bbe3fa6",
+        "particle": "on",
+        "verb": "turn on",
+        "translation": "включать; зависеть",
+        "example": "The first thing I do in the morning is turn on my phone. - Первое, что я делаю утром – включаю телефон.\nOur entire plan turns on your parent's decision - Весь наш план зависит от того, что решат твои родители."
+      },
+      {
+        "id": "5bc1a1e7-9809-44df-9e23-b2840947e6e4",
+        "particle": "out",
+        "verb": "turn out",
+        "translation": "оказаться, получиться, выйти",
+        "example": "The experiment turned out to be a failure — Эксперимент оказался неудачным"
+      },
+      {
+        "id": "5ff686f4-42cf-4175-80cc-3aa390190f76",
+        "particle": "over",
+        "verb": "turn over",
+        "translation": "переворачивать(ся); передавать",
+        "example": "Liz picked up the blue envelope and turned it over curiously. — Лиз подняла голубой конверт и с любопытством перевернула его.\nThe lawyer turned over the release papers. - Адвокат передал бумаги об освобождении."
+      },
+      {
+        "id": "a24b899d-e9f8-4f6f-aa07-be3aa3d873ca",
+        "particle": "up",
+        "verb": "turn up",
+        "translation": "появляться",
+        "example": "I will let you know if he turns up - Я дам вам знать, если он появится."
+      }
+    ]
+  },
+  {
+    "id": "a3cab2f6-8683-415b-a588-7afed695efa2",
+    "verb": "wake",
+    "phr_verbs": [
+      {
+        "id": "7a7f8796-9cab-4707-8f36-3bfff31cba1b",
+        "particle": "up",
+        "verb": "wake up",
+        "translation": "просыпаться; будить кого-л.",
+        "example": "He woke up at the first rays of dawn — Он проснулся с первыми лучами рассвета.\nHis screaming woke up the whole house — Его крик разбудил весь дом."
+      }
+    ]
+  },
+  {
+    "id": "d3b3bb75-e437-4b60-9c11-52971bda3e77",
+    "verb": "walk",
+    "phr_verbs": [
+      {
+        "id": "52178e32-f3be-41e5-8a7d-abe0af3f2139",
+        "particle": "around",
+        "verb": "walk around",
+        "translation": "ходить, бродить повсюду",
+        "example": "When I need a break from work, I walk around the block to clear my head. — Когда мне нужен перерыв в работе, я хожу вокруг квартала, чтобы очистить голову."
+      },
+      {
+        "id": "a8aaa651-8c95-4c68-9550-573249d876df",
+        "particle": "away",
+        "verb": "walk away",
+        "translation": "уходить",
+        "example": "Then why are you walking away? — Тогда почему ты уходишь?"
+      },
+      {
+        "id": "fbd4b741-9c2d-4dab-a6f5-f596b239db1b",
+        "particle": "back",
+        "verb": "walk back",
+        "translation": "возвращаться, идти назад/обратно",
+        "example": "We have only ten minutes left for our walk back. - У нас только 10 минут для того, чтобы вернуться назад."
+      },
+      {
+        "id": "2df2d728-95af-4dda-869d-7db589b0e388",
+        "particle": "in",
+        "verb": "walk in",
+        "translation": "входить",
+        "example": "Он вошел и сел. - He walked in and sat down."
+      },
+      {
+        "id": "040d6a11-cbb2-4866-8057-21a663efdb4a",
+        "particle": "out",
+        "verb": "walk out",
+        "translation": "выходить",
+        "example": "Mr. Mason got up and walked out during the performance. Мистер Мейсон встал и вышел во время представления."
+      },
+      {
+        "id": "1d9a3aa4-717b-47e7-894d-199d0cfe8e26",
+        "particle": "over",
+        "verb": "walk over",
+        "translation": "подойти, подходить",
+        "example": "He decided to walk over and talk to her — Он решил подойти и поговорить с ней."
+      },
+      {
+        "id": "ba71e03f-b5a6-4e53-8a75-9da9a30d10c3",
+        "particle": "up",
+        "verb": "walk up",
+        "translation": "подойти, подходить",
+        "example": "He walked up to the house and knocked on the door — он подошёл к дому и постучал в дверь."
+      }
+    ]
+  },
+  {
+    "id": "b1112ec0-8140-4f5f-8cfc-c072ca5be7fc",
+    "verb": "watch",
+    "phr_verbs": [
+      {
+        "id": "2aecf9aa-55bc-4393-8aa7-02722a9f387d",
+        "particle": "out",
+        "verb": "watch out",
+        "translation": "остерегаться, быть начеку; присматривать (for- за)",
+        "example": "Watch out for the water - Остерегайся воды.\nI'll always watch out for you - Я всегда буду присматривать за тобой."
+      }
+    ]
+  },
+  {
+    "id": "6dffb23a-05f5-4280-b22b-133db752e392",
+    "verb": "wind",
+    "phr_verbs": [
+      {
+        "id": "b7e542a1-c4cc-44ea-8d44-08628c8f6f32",
+        "particle": "up",
+        "verb": "wind up",
+        "translation": "очутиться, оказаться; завершиться чем-л.",
+        "example": "We missed our flight and wound up spending the night at the airport — Мы опоздали на рейс и в итоге оказались ночевать в аэропорту. \nLet's wind up the meeting and go to lunch — Давайте закончим собрание и пойдём на обед."
+      }
+    ]
+  },
+  {
+    "id": "212bfc82-0786-4abb-9a02-f8ffc0549e06",
+    "verb": "work",
+    "phr_verbs": [
+      {
+        "id": "c3579f89-c682-426a-8af6-2d1e9365a38b",
+        "particle": "out",
+        "verb": "work out",
+        "translation": "понять, разобраться; получиться",
+        "example": "He left temporarily to work out a few things - Он временно уехал, чтобы разобраться с некоторыми вещами.\nIt all worked out as we planned - Все получилось именно так, как мы планировали."
+      },
+      {
+        "id": "6f6ddf12-048c-4c09-91b1-a5617bcf72b3",
+        "particle": "up",
+        "verb": "work up",
+        "translation": "выработать, создать; волноваться, расстраиваться",
+        "example": "We worked up a strategy that day. - Мы разработали стратегию в тот день\nThere's no sense getting worked up over something that might not happen - Так что не надо волноваться по поводу того, что может не произойти."
+      }
+    ]
+  },
+  {
+    "id": "4b5d12d7-5c08-41bb-9f98-c6ca931bd9e0",
+    "verb": "write",
+    "phr_verbs": [
+      {
+        "id": "c3de7f17-022b-4c93-8f8e-8a265e2cc02c",
+        "particle": "down",
+        "verb": "write down",
+        "translation": "записывать, излагать письменно",
+        "example": "Write down this phone number — Запишите этот телефонный номер."
+      }
+    ]
+  }
+]
